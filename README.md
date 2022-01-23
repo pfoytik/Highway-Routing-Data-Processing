@@ -11,4 +11,4 @@
 
 ## Contact
 - Yiming Xu (yiming.xu@ufl.edu)
-- Dr.Xilei Zhao (xilei.zhao@essie.ufl.edu)
+- Dr. Xilei Zhao (xilei.zhao@essie.ufl.edu)
