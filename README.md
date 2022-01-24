@@ -1,6 +1,6 @@
 # Highway Routing Data Procssing
 - Data extracting code for paper "A Highway Vehicle Routing Dataset During the 2019 Kincade Fire Evacuation."
-- NOTE: The sample GPS trace data is synthetic to preserve pravicy.
+- NOTE: The sample GPS data is synthetic for demonstration purposes.
 
 ## Package Required
 - pandas
