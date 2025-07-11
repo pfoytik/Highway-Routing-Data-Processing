@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Destination_Traffic>
+<Destination_Node_Sample>
+<From_Time>36000</From_Time>
+<To_Time>36299</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>48864</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>9997</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2194</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6050</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>36300</From_Time>
+<To_Time>36599</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>49347</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10088</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2213</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6086</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>36600</From_Time>
+<To_Time>36899</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>49817</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10173</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2232</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6124</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>36900</From_Time>
+<To_Time>37199</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>50276</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10272</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2258</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6148</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>37200</From_Time>
+<To_Time>37499</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>50786</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10375</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2276</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6200</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>37500</From_Time>
+<To_Time>37799</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>51273</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10448</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2308</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6244</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>37800</From_Time>
+<To_Time>38099</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>51740</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10556</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2349</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6301</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>38100</From_Time>
+<To_Time>38399</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>52244</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10645</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2382</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6353</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>38400</From_Time>
+<To_Time>38699</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>52742</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10729</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2436</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6388</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>38700</From_Time>
+<To_Time>38999</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>53207</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10828</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2496</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6423</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>39000</From_Time>
+<To_Time>39299</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>53687</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>10929</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2554</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6468</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+<Destination_Node_Sample>
+<From_Time>39300</From_Time>
+<To_Time>39599</To_Time>
+<Destination_Data>
+	<Destination_Node_ID>48526276</Destination_Node_ID>
+	<Throughput>54149</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194777</Destination_Node_ID>
+	<Throughput>11008</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100190</Destination_Node_ID>
+	<Throughput>22</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099195</Destination_Node_ID>
+	<Throughput>14</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50189178</Destination_Node_ID>
+	<Throughput>18</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50100309</Destination_Node_ID>
+	<Throughput>37</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194390</Destination_Node_ID>
+	<Throughput>2586</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099505</Destination_Node_ID>
+	<Throughput>50</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50190157</Destination_Node_ID>
+	<Throughput>7</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097135</Destination_Node_ID>
+	<Throughput>25</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50194313</Destination_Node_ID>
+	<Throughput>16</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097067</Destination_Node_ID>
+	<Throughput>6488</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50116389</Destination_Node_ID>
+	<Throughput>12</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>310110210</Destination_Node_ID>
+	<Throughput>11</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50099399</Destination_Node_ID>
+	<Throughput>21</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>50097281</Destination_Node_ID>
+	<Throughput>75</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308441586</Destination_Node_ID>
+	<Throughput>70</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>308443697</Destination_Node_ID>
+	<Throughput>57</Throughput>
+</Destination_Data>
+<Destination_Data>
+	<Destination_Node_ID>48526320</Destination_Node_ID>
+	<Throughput>750</Throughput>
+</Destination_Data>
+</Destination_Node_Sample>
+</Destination_Traffic>

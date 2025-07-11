@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StochasticData>
+   <StochasticRun>
+       <Run>1</Run>
+       <Duration>24.8</Duration>
+       <TotalThroughput>148937</TotalThroughput>
+       <TotalAccidents>0</TotalAccidents>
+   </StochasticRun>
+
+</StochasticData>
